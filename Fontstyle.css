@@ -1,0 +1,90 @@
+.mainHeader  {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    background-color: #FFB13BB3;
+    padding: 3%;
+    margin: 0%;
+    border: 7px;
+    border-color: white;
+    border-style: double;
+    
+}
+
+.paragraph1 {
+    font-family: sans-serif;
+    background-color: #FFB13BB3;
+    color: white;
+    padding: 10%;
+    margin: 2%; 
+    width: 50%;
+    border: 10px;
+    border-color: white;
+    border-style: double;
+    
+}
+
+#historySect {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 7px;
+    margin: 0px;
+    border-color: black;
+    border-style: double;
+  
+}
+
+#early2000  {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 7px;
+    margin: 0px;
+    border-color: black;
+    border-style: double;
+  
+}
+
+#late2000  {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 7px;
+    margin: 0px;
+    border-color: black;
+    border-style: double;
+}
+
+#goldenEra  {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 7px;
+    margin: 0px;
+    border-color: black;
+    border-style: double;
+}
+
+#early2010 {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    border: 7px;
+    margin: 0px;
+    border-color: black;
+    border-style: double;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+    position: fixed;
+    top: 0
+}
+.inLine {
+    display: inline-block;
+}
